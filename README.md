@@ -1,10 +1,14 @@
-# my_tip_calculator
-
+## Getting Started
 A new Flutter project.
 
-## Getting Started
+ **Prerequisites**
 
-This project is a starting point for a Flutter application.
+ List of softwares you need to install.
+ 
+ * [Flutter](http://flutter.dev/)
+ * [Android studio](https://developer.android.com/studio)
+
+## Resources
 
 A few resources to get you started if this is your first Flutter project:
 
