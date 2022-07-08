@@ -80,7 +80,7 @@ class HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: const Color(0xFFFFFFFF),
       body: Container(
-          padding:  EdgeInsets.fromLTRB(35, 0, 35, 0),//horizontal: 35, vertical: 0),
+          padding:  EdgeInsets.fromLTRB(35, 0, 35, 0),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
